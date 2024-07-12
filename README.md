@@ -23,3 +23,9 @@ Para correr el proyecto ejecute los siguientes comandos en consola
 ```bash
   npm run dev
 ```
+
+
+## Autor
+
+- [ChristianIlachoque](https://www.github.com/ChristianIlachoque)
+
